@@ -1,12 +1,12 @@
 # AI Regulation Discourse in News: A Longitudinal Study Post-ChatGPT (2020-2025)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
 ## 📖 Overview
 
-This repository contains a comprehensive longitudinal study analyzing AI regulation discourse across ideologically diverse U.S. news outlets from 2020-2025, with a specific focus on shifts following the release of ChatGPT. Using advanced Natural Language Processing (NLP) techniques, this research traces how media framing, sentiment, and stakeholder narratives evolve over time, revealing how media ideology shapes public understanding of AI policy.
+This repository contains a comprehensive longitudinal study analyzing AI regulation discourse across ideologically diverse global news outlets from 2020-2025, with a specific focus on shifts following the release of ChatGPT. Using advanced Natural Language Processing (NLP) techniques, this research traces how media framing, sentiment, and stakeholder narratives evolve over time, revealing how media ideology shapes public understanding of AI policy.
 
 ## 🎯 Research Objectives
 
@@ -85,7 +85,7 @@ This repository contains a comprehensive longitudinal study analyzing AI regulat
 - **Visualization**: `matplotlib`, `seaborn`
 
 ### Environment
-- **Language**: Python 3.8+
+- **Language**: Python 3.9+
 - **Platform**: Jupyter Notebook
 - **Data Source**: MediaCloud (2020-2025)
 
@@ -170,10 +170,6 @@ This project is a collaborative research effort:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📧 Contact
 
